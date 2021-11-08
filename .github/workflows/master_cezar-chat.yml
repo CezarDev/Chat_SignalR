@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'cezar-chat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_334F365D87FF43CFBAFF4DF7D6F6AD5E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80E191C92BAF46A8B4BAAD2662D3401C }}
           package: .
